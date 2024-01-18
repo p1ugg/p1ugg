@@ -9,4 +9,4 @@
 
 - 🌱 I’m currently learning mathematical sciences
 - 📫 How to reach me: Telegram - @dnsadnadnd241
-- ⚡ Fun fact: I like to travel
+- ⚡ Fun fact: Movie buff
