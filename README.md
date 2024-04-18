@@ -1,4 +1,4 @@
-### Hi there! I'm Gazzaev Yaroslav👋
+### Hi there! I'm Yaroslav👋
 
 
 ## `Who am I?`
