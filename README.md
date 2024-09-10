@@ -7,4 +7,4 @@
 - 🧑‍💻 Python dev
 - 🤓 A person who is pursuing computer science
 - 🌱 I’m currently learning data science and mathematical sciences
-- 📫 How to reach me: <a href="https://t.me/dnsadnadnd241" target="_blank">Telegram</a>
+- 📫 How to reach me: <a href="https://t.me/dnn241" target="_blank">Telegram</a>
